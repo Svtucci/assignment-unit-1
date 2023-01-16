@@ -9,3 +9,24 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: rgb(202, 131, 30);
+}
+h1 {
+    text-align:center;
+}
+img{
+    border: 10px solid #100
+}
+header{
+    background-color: black;
+    color:white
+}
+footer{
+    background-color: black;
+    color: azure;
+    font-style: italic;
+}
+
+
